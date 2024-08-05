@@ -1,0 +1,10 @@
+{
+  "name": "services",
+  "module": "index.ts",
+  "type": "module",
+  "dependencies": {
+    "@types/bun": "latest",
+    "utils": "link:utils",
+    "typescript": "^5.5.4"
+  }
+}
