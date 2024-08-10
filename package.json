@@ -4,7 +4,9 @@
   "type": "module",
   "dependencies": {
     "@types/bun": "latest",
-    "utils": "link:utils",
-    "typescript": "^5.5.4"
+    "@types/node": "^22.2.0",
+    "@types/ws": "^8.5.12",
+    "typescript": "^5.5.4",
+    "utils": "link:utils"
   }
 }
