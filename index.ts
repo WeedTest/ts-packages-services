@@ -3,6 +3,7 @@ import Pause from "./src/pause.service";
 import DiscardLine from "./src/discard-line.service";
 import ExcludeToken from "./src/exclude-token.service";
 import RetrieveList from "./src/retrieve-list.service";
+import ObjectChecker from "./src/object-checker.service";
 
 export default {
     DiscardLine,
@@ -10,4 +11,5 @@ export default {
     RetrieveList,
     Retry,
     Pause,
+    ObjectChecker,
 }
